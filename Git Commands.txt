@@ -1,0 +1,15 @@
+git status
+git add .
+modify .txt file
+git commit -a -m "Commit for step 5"
+git log
+git show
+-------------------------
+-------------------------
+create new .txt file
+git status
+git add Cinderella.txt
+git status
+git commit -m "Commit for step 6"
+git log
+git show
